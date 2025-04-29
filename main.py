@@ -8,7 +8,7 @@ from asynchronous_db import create_table
 logging.basicConfig(level=logging.INFO)
 
 # Токен, который был получен от BotFather при создании бота
-API_TOKEN = '7241589154:AAF8AdCDmMMFl8Gcbsoan7sTmJbWFYZP0us'
+API_TOKEN = 'ВАШ_ТОКЕН'
 
 # Объект бота
 bot = Bot(token=API_TOKEN)
